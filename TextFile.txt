@@ -1,5 +1,7 @@
-Change1 – commit with message as “Change1 in File1”
+Change1 â€“ commit with message as â€œChange1 in File1â€
 
-Change2 – commit with message as “Change2 in File1”
+Change2 â€“ commit with message as â€œChange2 in File1â€
 
 change3
+
+change4//made on remote
